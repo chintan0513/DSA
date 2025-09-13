@@ -1,3 +1,5 @@
+# Problem no. 242
+
 class Solution:
     def isAnagram(Self, s:str, t:str) -> bool:
 
